@@ -11,6 +11,10 @@
     display: flex;
 }
 
+.footer{
+    background-color: black;
+}
+
 .header-container {
     justify-content: center;
     align-items: center;
@@ -46,7 +50,6 @@
 
 .program {
     font-family: Public Sans;
-    font-weight: 600;
 }
 
 .donate-btn {
